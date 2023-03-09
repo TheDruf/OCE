@@ -16,6 +16,11 @@ By using an Open Collab Entity, you agree to the following terms and conditions:
   - If you remix, transform, or build upon the Open Collab Entity, you must distribute your contributions 
     under the same license as the original
 
+ ## Permitted Commercial Use
+   You may use the Open Collab Entity for commercial purposes as long as the commercial 
+    use is within the scope of this license and the work or derivative works are properly attributed.
+    The commercial use does not include selling or trading the Open Collab Entity as a standalone asset.
+
  ## Restrictions
     
     
@@ -27,10 +32,6 @@ By using an Open Collab Entity, you agree to the following terms and conditions:
     license information, or attribution information included in the Open Collab Entity or
     any derivative works.
 
- ## Permitted Commercial Use
-   You may use the Open Collab Entity for commercial purposes as long as the commercial 
-    use is within the scope of this license and the work or derivative works are properly attributed.
-    The commercial use does not include selling or trading the Open Collab Entity as a standalone asset.
 
  ## Open Collab Entity
    Any projects or derivative works using the Open Collab Entity must also be licensed under the 
