@@ -1,4 +1,4 @@
-# OCEL
+# OCEL 1.0 (Open Collab Entity License)
 
 #### Open Collab Entity License
 This license is an open source license that governs the use of an Open Collab Entity, 
